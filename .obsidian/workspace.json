@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "cd97bcb4acdde427",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef3760938e84a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9fa1f03984ba09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git+Github/03- Fundamentos Git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "735c80b58db1da45",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4edfbbdf6593289",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632939c19b6aaae2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d610e4905a95c83b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccb06baf4cdfa2be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "579159da861a42a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a44074b9e0a30da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f3968330d941c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git+Github/03- Fundamentos Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45c50831af97e801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git+Github/03- Fundamentos Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfbd612940bedf91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "daeab10301050015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git+Github/03- Fundamentos Git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "ee9fa1f03984ba09",
+  "lastOpenFiles": [
+    "Git+Github/03- Fundamentos Git.md",
+    "Git+Github/adjuntos/Pasted image 20230309055812.png",
+    "Git+Github/adjuntos/Pasted image 20230309055809.png",
+    "Git+Github/02-Git.md",
+    "Terminal/VIM CheatSheet.md",
+    "Git+Github/Comandos Git.md",
+    "Untitled.md",
+    "Generation Mexico/Git & Github/Llaves SSH para uso en Github.md",
+    "Terminal",
+    "Git+Github/01-Introduccion Documento.md",
+    "Generation Mexico/Contacto.md",
+    "Generation Mexico/Git & Github/Comandos Iniciales Git.md",
+    "Generation Mexico/Git & Github/Git Control de Versiones.md",
+    "Generation Mexico/Git & Github/Ramas (branch).md",
+    "Generation Mexico/Informatica/Introduccion a informatica.md",
+    "Generation Mexico/Informatica",
+    "Generation Mexico/Git & Github",
+    "Generation Mexico/adjuntos/Pasted image 20230308050139.png",
+    "Markdown & Obsidian/Reglas Markdown.md",
+    "Git+Github/adjuntos/Pasted image 20230307092909.png",
+    "Git+Github/adjuntos/Pasted image 20230307092843.png",
+    "Git+Github/adjuntos",
+    "Git+Github",
+    "Generation Mexico/adjuntos/Pasted image 20230306134746.png",
+    "Generation Mexico/adjuntos/Pasted image 20230306103701.png",
+    "Generation Mexico/adjuntos/Pasted image 20230306103528.png",
+    "Generation Mexico/adjuntos/Pasted image 20230306103210.png",
+    "Generation Mexico/adjuntos/Pasted image 20230306102552.png",
+    "Markdown & Obsidian/Obsidian Cheat Sheet.md",
+    "VSCode/03- Edicion Basica.md",
+    "VSCode/05- Definiciones.md",
+    "VSCode/04- Multi Cursor y edicion rapida.md",
+    "VSCode/02- General.md",
+    "VSCode/01- Introduccion.md"
+  ]
+}
