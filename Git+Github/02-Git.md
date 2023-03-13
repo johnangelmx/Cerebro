@@ -41,10 +41,21 @@ git config --global user.name "Nombre-Usuario"
 git config --global user.email "Email"
 ```
 
+**Configurar Globalmente El Nombre De La Rama Principal**
+```git
+git config --global init.defaultBranch main
+```
+**Configurar Localmente El Nombre De La Rama Principal**
+```git
+git brach -m master main 
+```
+
 Con estas dos configuraciones, git por defecto trabaja mucho con la confianza del usuario que trabaja este equipo, es decir, la persona que tiene acceso el computador es la persona que solo va a manipular el repositorio.
 
 **Visualizar Configuración Global**
 ```git
 git config --global -e 
 ```
-Permite ver en un editor de texto, en mi caso VIM![[Pasted image 20230307092909.png]]
+Permite ver en un editor de texto, en mi caso [[VIM CheatSheet|VIM]]
+
+![[Pasted image 20230307092909.png]]

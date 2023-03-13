@@ -1,47 +1,12 @@
-### Comando inicial
-```git
-git
-```
-Permite la visualización de ayuda de git.
+# Comandos Flujos Básicos 
+Al trabajar con Git, se pueden mencionar los siguientes tres espacios de trabajo:
 
-### Versión
-```git
-git --version
-```
-Permite ver la versión instalada de git.
+1.  Directorio de trabajo (working directory): Es el espacio donde se editan y modifican los archivos del proyecto.
+2.  Área de preparación (staging area): También conocido como "índice", es donde se preparan los cambios que se van a incluir en la próxima confirmación (commit).
+3.  Repositorio Git (Git repository): Es donde se almacena la historia de cambios del proyecto y donde se pueden recuperar versiones anteriores en caso de ser necesario.
 
-### Configuración inicial nombre
-```git
-git config --global user.name "Nombre"
-```
-Permite la visualización o cambio al insertar el nombre del nombre global en git.
+Para ello tenemos el siguiente flujo de comandos: 
 
-### Configuración inicial email
-```git
-git config --global user.email "johnangelmx@gmail.com"
-```
-Permite la visualización o el cambio al insertar el email en git.
-
-### Configuración inicial rama main
-```git
-git config --global init.defaultBranch main
-```
-Permite el cambio del nombre por defecto de la rama principal por defecto.
-
-### Configuración inicial editor
-```git
-git config --global core.editor "nombre-editor-texto"
-```
-Permite el cambio del editor de texto que usara git 
-
---- 
-### Inicializar Git
-```git
-git init 
-```
-Inicia el repositorio, es decir, Crea el directorio `.git` y permite usar git.
-
-### Comandos Flujos Basicos 
 ![[Pasted image 20230306134746.png]]
 
 ---
@@ -78,7 +43,7 @@ Permite ingresar un mensaje del commit más largo, con más caracteres.
 ```git
 git commit 
 ```
-Esto permitirá escribir el mensaje en el [[Comandos Iniciales Git#Configuración inicial editor|editor de texto]] previamente configurado
+Esto permitirá escribir el mensaje en el [[02 - Comandos Iniciales Git#Configuración inicial editor|editor de texto]] previamente configurado
 
 ### Git commit --amend
 Permite enmendar un mensaje escrito en el último commit
