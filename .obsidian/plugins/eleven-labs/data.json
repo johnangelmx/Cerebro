@@ -1,0 +1,12 @@
+{
+  "apiKey": "45ca957b87243a2d068341eccc96e35c",
+  "selectedVoiceId": "GBv7mTt0atIp3Br8iCZE",
+  "selectedModelId": "eleven_multilingual_v2",
+  "voiceSettings": {
+    "": {
+      "enabled": false,
+      "stability": 0,
+      "similarity_boost": 0
+    }
+  }
+}

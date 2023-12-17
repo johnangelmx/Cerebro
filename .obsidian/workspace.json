@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2695c8fc62fc8c",
+        "id": "1104abe2099309ae",
         "type": "tabs",
         "children": [
           {
-            "id": "0778da60b127d728",
+            "id": "15bfa616c05900f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generation Mexico/Git & Github/05 - Remotos (GitHub).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "10f4dbc48c01b8ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generation Mexico/Git & Github/05 - Remotos (GitHub).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generation Mexico/Git & Github/05 - Remotos (GitHub).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Generation Mexico/Git & Github/05 - Remotos (GitHub).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,53 +140,61 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "canvas:Create new canvas": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0778da60b127d728",
+  "active": "15bfa616c05900f4",
   "lastOpenFiles": [
-    "Generation Mexico/Git & Github/adjuntos/Pasted image 20230313133950.png",
-    "Generation Mexico/Git & Github/adjuntos",
-    "Generation Mexico/Git & Github/05 - Remotos (GitHub).md",
-    "Generation Mexico/Git & Github/04 - Ramas (branch).md",
-    "Generation Mexico/Git & Github/03- Flujo Basico.md",
-    "Generation Mexico/Git & Github/02 - Comandos Iniciales Git.md",
-    "Generation Mexico/Git & Github/01 - Git Control de Versiones.md",
-    "Generation Mexico/Git & Github/Llaves SSH para uso en Github.md",
-    "Git+Github/03- Fundamentos Git.md",
-    "Git+Github/Comandos Git.md",
-    "Generation Mexico/Informatica/Introduccion a informatica.md",
-    "Generation Mexico/Contacto.md",
+    "Accesibilidad Web/03 - Labels, alt y titles.md",
+    "Accesibilidad Web/02 - Textos.md",
+    "Accesibilidad Web/adjuntos/Pasted image 20231217100310.png",
+    "CSS.md",
+    "Accesibilidad Web/01 - Semantica.md",
+    "Accesibilidad Web/adjuntos/Pasted image 20231217094537.png",
+    "Accesibilidad Web/adjuntos",
+    "Accesibilidad Web",
+    "CSS - Reponsive Design/06 - Responsive Imágenes.md",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217092722.png",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217092634.png",
+    "CSS - Reponsive Design/01 - Primeros pasos.md",
+    "CSS - Reponsive Design/05 - Buenas Practicas.md",
+    "HTML/02 - Etiquetas multimedia.md",
+    "HTML/03 - Formularios.md",
+    "ElevenLabs/2023-12-17_06-09-15_Thomas.md",
+    "HTML/01 - HTML - Introducción.md",
+    "CSS - Reponsive Design/02 - Patron Mostly Fluid.md",
+    "CSS - Reponsive Design/04 - Patron Column Drop.md",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217062921.png",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217062522.png",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217062520.png",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217062049.png",
+    "ElevenLabs/2023-12-17_06-09-21_Thomas.md",
+    "ElevenLabs/Audio/2023-12-17_06-09-21_Thomas.mp3",
+    "ElevenLabs/Audio/2023-12-17_06-09-15_Thomas.mp3",
+    "ElevenLabs/Audio",
+    "ElevenLabs",
+    "CSS - Reponsive Design/03 - Patron Layout Shifter.md",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231217050331.png",
+    "CSS - Reponsive Design/adjuntos/Pasted image 20231215134235.png",
     "Markdown & Obsidian/Reglas Markdown.md",
-    "Git+Github/02-Git.md",
-    "Git+Github/adjuntos/Pasted image 20230309055812.png",
-    "Git+Github/adjuntos/Pasted image 20230309055809.png",
-    "Terminal/VIM CheatSheet.md",
-    "Untitled.md",
-    "Terminal",
-    "Git+Github/01-Introduccion Documento.md",
-    "Generation Mexico/Informatica",
-    "Generation Mexico/Git & Github",
-    "Generation Mexico/adjuntos/Pasted image 20230308050139.png",
-    "Git+Github/adjuntos/Pasted image 20230307092909.png",
-    "Git+Github/adjuntos/Pasted image 20230307092843.png",
-    "Git+Github/adjuntos",
-    "Git+Github",
-    "Generation Mexico/adjuntos/Pasted image 20230306134746.png",
-    "Generation Mexico/adjuntos/Pasted image 20230306103701.png",
-    "Generation Mexico/adjuntos/Pasted image 20230306103528.png",
-    "Generation Mexico/adjuntos/Pasted image 20230306103210.png",
-    "Generation Mexico/adjuntos/Pasted image 20230306102552.png",
-    "Markdown & Obsidian/Obsidian Cheat Sheet.md",
-    "VSCode/03- Edicion Basica.md",
-    "VSCode/05- Definiciones.md",
-    "VSCode/04- Multi Cursor y edicion rapida.md",
-    "VSCode/02- General.md",
-    "VSCode/01- Introduccion.md"
+    "CSS/01 - CSS - Introduccion.md",
+    "CSS/11 - Importar fuentes en CSS.md",
+    "CSS/00 - Reseteo de CSS.md",
+    "CSS - Reponsive Design/adjuntos",
+    "CSS - Reponsive Design",
+    "CSS/10 - Variables (custom properties).md",
+    "CSS/09 - Flex Display.md",
+    "CSS/08 - Display.md",
+    "CSS/07 - Position.md",
+    "CSS/06 - Medidas.md",
+    "CSS/05 - Combinadores (combinators).md",
+    "CSS/04 - Especificidad.md",
+    "CSS/adjuntos",
+    "CSS"
   ]
 }
