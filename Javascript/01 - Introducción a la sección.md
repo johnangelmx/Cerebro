@@ -10,13 +10,11 @@
     
 - Introducción a la consola de JavaScript
     
-- Depuración y breakpoints
-    
 - Problemas con la declaración de variables con **var**
     
 - Prompts, alerts, confirms.
 
-
+---
 # Historia de JavaScript
 
 Como todos los lenguajes de programación, o en su mayoría, son creados para resolver un problema en especial, el caso de JavaScript no es la excepción, dado que la idea de su creación fue para satisfacer su necesidad de ejecutar código del lado del cliente.
@@ -30,7 +28,7 @@ Algo tan simple como completar un formulario tal cual la página quería que fue
 El creador de JavaScript es Brendan Eich:
 ![[Pasted image 20240405093745.png|200]]
 
-
+---
 # Uso de JavaScript en la industria actual
 
 Hoy en día, el usar JS es un estándar del 99% en navegadores web, podría decirse que es un monopolio, él ha podido salir del navegador y ejecutarse en varios ecosistemas tecnológicos.
@@ -41,6 +39,7 @@ Hoy en día, el usar JS es un estándar del 99% en navegadores web, podría deci
 
 **Evolución continua:** El ecosistema de JavaScript está en constante evolución, con nuevas bibliotecas, marcos y herramientas que se lanzan regularmente. Esta innovación constante mantiene a JavaScript a la vanguardia del desarrollo web y garantiza que siga siendo una herramienta valiosa para los desarrolladores de todo el mundo. Entre las tendencias más recientes se encuentran la creciente popularidad de TypeScript, un lenguaje superconjunto de JavaScript que ofrece mayor seguridad y escalabilidad, y el auge de la programación funcional, que promueve un estilo de codificación más declarativo y modular.
 
+---
 # Hola mundo en JavaScript
 En este apartado vamos a elaborar de forma más práctica las instrucciones y menos teórica.
 
@@ -182,6 +181,7 @@ Las buenas prácticas dictan que este tipo de llamadas a un archivo JavaScript s
 
 Y si te vuelves a preguntar el porqué aparece el `undefined` y en el HTML no, es porque HTML es secuencial.
 
+---
 # Introducción a variables y comentarios
 
 ## Comentarios
@@ -193,5 +193,194 @@ Los comentarios son líneas de código que el intérprete de JavaScript ignorara
 
 ## Variables
 Es un contenedor de información que apunta a un lugar en memoria.
-
 Dicha información puede cambiar en el futuro.
+
+### Anatomía de una variable
+
+![[Pasted image 20240411121009.png|500]]
+
+### Tipos de variables en JavaScript
+
+```JavaScript
+let a = 10;
+var b = 20;
+const c = 30;
+d = 40;
+```
+
+En JavaScript tenemos 4 formas de declarar una variable y cada una de ellas dependiendo de la palabra reservada que tengamos tendrá un comportamiento propio.
+
+### Palabras reservadas 
+
+1. **`let`**: Esta palabra reservada permite cambiar el valor de la variable en cualquier momento. Se considera una buena práctica utilizar `let` cuando se espera que el valor de la variable cambie durante la ejecución del programa.
+
+2. **`var`**: Aunque aún es compatible, el uso de `var` está en desuso y se considera una mala práctica. Funciona de manera similar a `let`, permitiendo el cambio del valor de la variable en cualquier momento. Sin embargo, su alcance puede ser confuso y propenso a errores, especialmente en programas grandes.
+
+3. **`const`**: Utilizar `const` declara una variable cuyo valor no puede cambiar una vez asignado. Es una buena práctica utilizar `const` para valores que no cambiarán durante la ejecución del programa. Intentar asignar un nuevo valor a una variable declarada con `const` generará un error.
+
+4. **Sin palabra reservada (`d = 40`)**: En JavaScript, es posible declarar una variable sin utilizar ninguna palabra reservada, como en el ejemplo `d = 40;`. En JavaScript, cuando se declara una variable sin utilizar ninguna palabra reservada, como en el ejemplo `d = 40;`, esta se comporta de manera diferente a como lo haría una variable declarada con `var`. En realidad, la variable `d` se convierte en una variable global si se encuentra en el ámbito global o en el ámbito de la función si se declara dentro de una función.
+
+Es importante utilizar las palabras reservadas adecuadas al declarar variables en JavaScript para garantizar un código claro, mantenible y libre de errores.
+
+### `Var` Palabra reservada
+Como palabra reservada `var` tiene un alcance global y esto no es porque sea una característica agregada recientemente, sino que hay que entender que JavaScript ha evolucionado con los años , anteriormente `var` era una buena práctica y estándar, a su vez como **Sin palabra reservada (`d = 40`)**. Pero JavaScript tienes más de una versión: 
+
+- 1996: LiveScript a JavaScript (estándar)
+- 1997: ES1 (ECMAScript 1)
+- 2009: ES5 (ECMAScript 5) Con muchas características nuevas.
+- 2015: ES6/ES2015 (ECMAScript 2015) que fue la actualización más grande de JavaScript hasta el momento.
+- 2015: Se estableció el año de nuevos lanzamientos de JavaScript. 
+- 2016/2017/2018/2019/2020...
+
+¿Qué versión debo de usar?
+
+- ES5:
+	- Soportada en todos los navegadores web.
+- ES6/ES2015, ES7/ES2016, ES8/ES2017:
+	- Soportados por la mayoría de navegadores modernos
+	- Pero no por todos los navegadores web
+	- Muchas características puedes ser implementadas con polyfills
+## Polyfill
+Es un código que provee el funcionamiento de una nueva característica de JavaScript (ES6), en versiones viejas como ES5.
+
+---
+# Introducción a la consola
+En este punto vamos a explorar la consola del navegador, recordemos que esta documentación está enfocada para el lado del navegador. 
+
+En la consola de los navegadores hay diferentes comportamientos, esto es por la compatibilidad que cada uno de ellos ofrezca a los usuarios, hoy en día el líder por excelencia es Chrome, que mantiene actualizaciones constantes, por ello los ejemplos serán con la consola de Chrome.
+
+En JavaScript podemos imprimir una variable con `console.log()` entre otras opciones, pero no es la única forma en que podemos imprimir en consola:
+
+```JavaScript
+let a = 10,
+    b = 20,
+    c = 30,
+    d = 40,
+    x = a + b;
+// Imprimir mensajes en consola nos permte saber en que punto esta nuestra variable
+
+console.log(a);
+console.warn(b);
+console.error(c);
+console.info(d);
+```
+
+Como resultado tendremos: 
+![[Pasted image 20240411125938.png]]
+
+>Cuando ustedes vean paréntesis en JavaScript significa que es una función o es un método, (un método no es más que una función que se encuentra en un objeto)
+
+## `console.log(concatenar)`
+También podemos concatenar (es decir, podemos crear unión de números con otros números, o letras con letras)
+```JavaScript
+console.log("a", a);
+console.log("b", b);
+console.log("c", c);
+console.log("d", d);
+```
+Como resultado: 
+![[Pasted image 20240411130242.png]]
+
+## `console.log({convertir en objeto})`
+Existe otra forma de visualizar la variable con el valor, el uso de impresión por objeto:
+```JavaScript
+console.log({ a });
+console.log({ b });
+console.log({ c });
+console.log({ d });
+```
+Como resultado:
+![[Pasted image 20240411130415.png]]
+
+## `console.log & CSS`
+Impresión con estilos CSS:
+```JavaScript
+console.log('%c Mis Variables', 'color:pink; font-weight: bold;');
+```
+Como resultado: 
+![[Pasted image 20240411130533.png]]
+
+## `console.table`
+Existe otra forma de organizar de mejor manera la información y eso es con `console.table`
+```JavaScript
+let a = 10,
+    b = 20,
+    c = 'Hola ',
+    d = 'Spiderman',
+    x = a + b;
+
+console.table({ a, b, c, d, x });
+```
+Como resultado: 
+![[Pasted image 20240411131249.png]]
+## Importancia del `const`
+```JavaScript
+let a = 10,
+    b = 20,
+    c = 'Hola ',
+    d = 'Spiderman',
+    x = a + b;
+    
+const saludo = c+d;
+```
+La palabra reservada `const` en muchos lenguajes el nombre de la variable tiene que ser en mayúsculas, pero en JavaScript se utiliza de dos modos, es decir: 
+- SALUDO: si la variable en todo el proyecto va a tener el mismo valor en todas los archivos.js
+- saludo: si la variable solo existirá en una archivo.js
+
+Y para imprimirlo esta vez solo lo invocaremos en nuestra consola: 
+![[Pasted image 20240411131818.png]]
+
+# Promt, Confirm y Alert
+
+En los navegadores existen alertas que permiten una interacción con el usuario, este tipo de alertas solo funcionan en navegadores o en donde se ejecute el objeto `window` que en su mayoría son solo navegadores.
+
+Que estas alertas solo se ejecuten en el objeto global `window` hacen que su comportamiento sea el detener procesos y esperar una respuesta, lo cual esto no es una buena práctica.
+
+Pero el uso de ellos en la etapa de desarrollo puede ser de utilidad.
+
+Existen 3 tipos de formas de ingreso de información del usuario por parte del navegador.
+
+## `alert`
+```JavaScript
+alert('Hola Mundo');
+```
+Como resultado al abrir un navegador: 
+![[Pasted image 20240413140252.png]]
+## `promt`
+```JavaScript
+prompt('Cual es tu nombre?');
+```
+Como resultado veremos la siguiente ventana:
+![[Pasted image 20240413140456.png]]
+
+La ventana `promt` es una función la cual retornara siempre un resultado y este mismo lo puedes guardar en una variable.
+
+La función `promt` puede enviar un segundo argumento, esto para que en el `input` de la ventana aparezca un dato que puede tomarlo de ejemplo o cambiarlo si lo desea:
+```JavaScript
+let nombre = prompt('Cual es tu nombre?', 'Sin Nombre');
+console.log(nombre);
+```
+Como resultado: 
+![[Pasted image 20240413140916.png]]
+![[Pasted image 20240413140935.png]]
+
+## `confirm`
+```JavaScript
+const seleccion = confirm('Esta seguro de borrar esto?');
+console.log(seleccion);
+```
+Como resultado: 
+![[Pasted image 20240413141130.png]]
+Y en la consola al darle aceptar:
+![[Pasted image 20240413141200.png]]
+
+La función de `confirm` es un booleano, es decir true o false, la función siempre retornará un resultado.
+
+## `window` (JavaScript) & `global` (Node)
+Recordemos que las alertas que acabamos de ver son métodos que vienen dentro del objeto `window`, pero estos solo sirve en programas en donde se ejecute y tengan el objeto `window` principalmente navegador.
+
+Esto en Node es totalmente diferente, porque no existe `window` existe un método parecido llamado `global`
+![[Pasted image 20240413141856.png]]
+
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/01 - Introducción a la sección.md",
+                "file": "Javascript/02 - Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/01 - Introducción a la sección.md",
+                "file": "Javascript/02 - Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/01 - Introducción a la sección.md",
+                "file": "Javascript/02 - Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/01 - Introducción a la sección.md"
+                "file": "Javascript/02 - Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas.md"
               }
             }
           }
@@ -156,20 +156,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "632939c19b6aaae2",
+  "active": "7f1414e81e356bd8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Javascript/adjuntos/Pasted image 20240413152207.png",
+    "Javascript/adjuntos/Pasted image 20240413143318.png",
     "Javascript/01 - Introducción a la sección.md",
-    "Javascript/adjuntos/Pasted image 20240407141840.png",
-    "Javascript/adjuntos/Pasted image 20240407141518.png",
-    "Javascript/adjuntos/Pasted image 20240407140350.png",
-    "Javascript/adjuntos/Pasted image 20240407140309.png",
-    "Javascript/adjuntos/Pasted image 20240407140245.png",
-    "Javascript/adjuntos/Pasted image 20240407132543.png",
-    "Javascript/adjuntos/Pasted image 20240407132155.png",
-    "Javascript/adjuntos/Pasted image 20240407132017.png",
-    "Javascript/adjuntos/Pasted image 20240407131944.png",
-    "Javascript/adjuntos/Pasted image 20240407050139.png",
+    "Javascript/02 - Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas.md",
+    "Javascript/adjuntos/Pasted image 20240413141856.png",
+    "Javascript/adjuntos/Pasted image 20240413141200.png",
+    "Javascript/adjuntos/Pasted image 20240413141130.png",
+    "Javascript/adjuntos/Pasted image 20240413141102.png",
+    "Javascript/adjuntos/Pasted image 20240413140935.png",
+    "Javascript/adjuntos/Pasted image 20240413140916.png",
+    "Javascript/adjuntos/Pasted image 20240413140456.png",
+    "Javascript/adjuntos/Pasted image 20240413140252.png",
+    "Javascript/adjuntos/Pasted image 20240411131818.png",
+    "HTML/02 - Etiquetas multimedia.md",
+    "Untitled.md",
     "Javascript/adjuntos",
     "Javascript/01-Introduccion a javascript y la consola",
     "Javascript",
@@ -181,7 +184,6 @@
     "CSS - Reponsive Design/01 - Primeros pasos.md",
     "CSS/11 - Importar fuentes en CSS.md",
     "HTML/01 - HTML - Introducción.md",
-    "HTML/02 - Etiquetas multimedia.md",
     "HTML/03 - Formularios.md",
     "CSS - Reponsive Design/02 - Patron Mostly Fluid.md",
     "CSS - Reponsive Design/03 - Patron Layout Shifter.md",
@@ -197,9 +199,7 @@
     "Introducción a la Terminal y Línea de Comandos/Untitled.md",
     "Introducción a la Terminal y Línea de Comandos/01 - Primeros pasos",
     "Introducción a la Terminal y Línea de Comandos",
-    "Generation Mexico/Contacto.md",
     "Untitled.canvas",
-    "Diario/2024-03-06.md",
     "Diario",
     "Escuela de Desarrollo Web/Fundamentos de Ingenieria de Software",
     "Escuela de Desarrollo Web/Computacion Basica/adjuntos",
