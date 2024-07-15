@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab87dc023436d0d",
+        "id": "bd9b5ee0169de03c",
         "type": "tabs",
         "children": [
           {
-            "id": "bcbbb02b2a9efb5b",
+            "id": "0a4029169fc0a294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md",
+                "file": "Notas de reunion 11-07-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md",
+                "file": "Notas de reunion 11-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md",
+                "file": "Notas de reunion 11-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md"
+                "file": "Notas de reunion 11-07-2024.md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "text2audio:Text to Audio": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,54 +157,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bcbbb02b2a9efb5b",
+  "active": "0a4029169fc0a294",
   "lastOpenFiles": [
-    "C-Sharp/19 - Constructores.md",
-    "C-Sharp/Actividades/02 - ejercicios resueltos.md",
-    "C-Sharp/Actividades/01 - Ejercicios Modulo 1.md",
-    "C-Sharp/Actividades",
-    "C-Sharp/adjuntos/Untitled",
-    "C-Sharp/18 - Lambda Functions.md",
-    "Untitled.md",
-    "C-Sharp/17 - Nullable C-Sharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240527125940.png",
-    "C-Sharp/adjuntos/Pasted image 20240527124837.png",
-    "C-Sharp/16 - try catch.md",
-    "C-Sharp/adjuntos/Pasted image 20240527112922.png",
-    "C-Sharp/adjuntos/Pasted image 20240527112426.png",
-    "C-Sharp/adjuntos/Pasted image 20240527111547.png",
-    "C-Sharp/15 Comentarios en CSharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240524151537.png",
-    "C-Sharp/14 - namespaces y using.md",
-    "C-Sharp/13 - String Magicos.md",
-    "C-Sharp/12 - enums y numeros magicos.md",
-    "Markdown & Obsidian/Reglas Markdown.md",
-    "Terminal/VIM CheatSheet.md",
-    "VSCode/03- Edicion Basica.md",
-    "VSCode/02- General.md",
-    "VSCode/01- Introduccion.md",
-    "Diario/2024-05-23.md",
-    "C-Sharp/11 - Condicional If.md",
-    "C-Sharp/03 - Estructuras de control.md",
-    "C-Sharp/06 - Operadores.md",
-    "C-Sharp/05 - Estructuras en C-Sharp (struct).md",
-    "C-Sharp/04 - Matrices.md",
-    "C-Sharp/02 - Variables, constantes y enumeraciones.md",
-    "C-Sharp/09 - Alcance y Bloques.md",
-    "C-Sharp/08 - Procedimientos y funciones.md",
-    "C-Sharp/10 - Strings en C-Sharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240520125838.png",
-    "C-Sharp/adjuntos",
-    "C-Sharp",
-    "Javascript/adjuntos/Pasted image 20240413152207.png",
-    "Javascript/adjuntos/Pasted image 20240413143318.png",
-    "Javascript/adjuntos/Pasted image 20240413141856.png",
-    "Javascript/adjuntos",
-    "Javascript/01-Introduccion a javascript y la consola",
-    "Javascript",
-    "Introducción a la Terminal y Línea de Comandos/01 - Primeros pasos",
-    "Introducción a la Terminal y Línea de Comandos",
-    "Untitled.canvas",
-    "Diario"
+    "Noh1's.md",
+    "Notas de reunion cupon preliminar.md",
+    "Cloudformation.md",
+    "scriptsSQl/Script para cotizacion mediante numero de ticket.md",
+    "Notas de reunion 11-07-2024.md",
+    "Reuniones/Seguimiento.md",
+    "HTML/01 - HTML - Introducción.md",
+    "CSS/03 - Herencia.md",
+    "CSS/02 - Modelo de caja.md",
+    "CSS/01 - CSS - Introduccion.md",
+    "CSS/00 - Reseteo de CSS.md",
+    "Reuniones/Erik Toala/Notas de reunion  12-06-2024.md",
+    "Reuniones/Notas reunion - Automotriz.md",
+    "Reuniones/Notas de reunion.md",
+    "Reuniones/Diego Enrique/Notas 11-06-2024.md",
+    "Reuniones/Diego Enrique/Notas 24-06-2024.md",
+    "Reuniones/Diego Enrique/Notas 19-06-2024.md",
+    "Reuniones/notas reunion 10-06-2024.md",
+    "Reuniones/Notas reunion 25-06-2024.md",
+    "Reuniones/Reunion 10-06-2024 Chesa - Joaquin.md",
+    "Reuniones/Diego Enrique/Notas de Reunion 03-07-2024.md",
+    "Reuniones/Diego Santiz/Notas 20-06-2024.md",
+    "Generation Mexico/Git & Github/Llaves SSH para uso en Github.md",
+    "Reuniones/Erik Toala/Notas Reunion 25-06-2024.md",
+    "Reuniones/Erik Toala/Notas de reunion 14-06-2024.md",
+    "asignaciones de tiempo.md",
+    "Reuniones/Diego Santiz",
+    "Reuniones/Erik Toala/adjuntos/Pasted image 20240612125419.png",
+    "Reuniones/Erik Toala/adjuntos/Pasted image 20240612125355.png",
+    "Reuniones/Erik Toala/adjuntos/Pasted image 20240612105520.png",
+    "Reuniones/Erik Toala/adjuntos",
+    "Reuniones/Erik Toala",
+    "Reuniones/Diego Enrique",
+    "dot Net/adjuntos/Pasted image 20240607154236.png",
+    "dot Net/adjuntos/Pasted image 20240607154201.png",
+    "scriptsSQl",
+    "dot Net/Untitled",
+    "Reuniones/juvencio",
+    "Reuniones",
+    "dot Net/adjuntos/Pasted image 20240604160207.png",
+    "dot Net/adjuntos/Pasted image 20240604160205.png",
+    "dot Net/adjuntos/Pasted image 20240604153106.png",
+    "dot Net/adjuntos/Pasted image 20240604145006.png",
+    "dot Net/adjuntos/Pasted image 20240604144951.png",
+    "dot Net/adjuntos",
+    "dot Net",
+    "Untitled.canvas"
   ]
 }
