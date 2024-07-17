@@ -1,25 +1,19 @@
 {
   "main": {
-    "id": "cd97bcb4acdde427",
+    "id": "94a1a4b65309cef5",
     "type": "split",
     "children": [
       {
-        "id": "bd9b5ee0169de03c",
-        "id": "6ee88c79958aee98",
-        "id": "7ab87dc023436d0d",
+        "id": "fc11298d5bd86f54",
         "type": "tabs",
         "children": [
           {
-            "id": "0a4029169fc0a294",
-            "id": "880b64e0981e8ab8",
-            "id": "bcbbb02b2a9efb5b",
+            "id": "a0199fdf0a9cae38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
               "type": "markdown",
               "state": {
-                "file": "Notas de reunion 11-07-2024.md",
+                "file": "ac.bdc@nissanchiapas.com.mx.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "735c80b58db1da45",
+    "id": "4b3dc29a74ecfee6",
     "type": "split",
     "children": [
       {
-        "id": "e4edfbbdf6593289",
+        "id": "3ddda8c4a43f6e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "632939c19b6aaae2",
+            "id": "b7260c3b3781c55e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +43,7 @@
             }
           },
           {
-            "id": "d610e4905a95c83b",
+            "id": "b9800ca0f991746c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,15 +58,7 @@
             }
           },
           {
-            "id": "ccb06baf4cdfa2be",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "10f4dbc48c01b8ea",
+            "id": "a43db9a01a7cdc96",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 300
   },
   "right": {
-    "id": "579159da861a42a0",
+    "id": "5156ae126d1ec642",
     "type": "split",
     "children": [
       {
-        "id": "4a44074b9e0a30da",
+        "id": "f90b904d12dc0e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "91f3968330d941c8",
+            "id": "5c1e3fcb778f415e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de reunion 11-07-2024.md",
+                "file": "ac.bdc@nissanchiapas.com.mx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +97,19 @@
             }
           },
           {
-            "id": "45c50831af97e801",
+            "id": "f8dde91355a71002",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de reunion 11-07-2024.md",
+                "file": "ac.bdc@nissanchiapas.com.mx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bfbd612940bedf91",
+            "id": "30012ad592cd3209",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,23 +120,21 @@
             }
           },
           {
-            "id": "daeab10301050015",
+            "id": "a734f51c2da61de3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
               "state": {
-                "file": "Notas de reunion 11-07-2024.md"
+                "file": "ac.bdc@nissanchiapas.com.mx.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,56 +149,8 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a4029169fc0a294",
-  "active": "632939c19b6aaae2",
-  "active": "bcbbb02b2a9efb5b",
+  "active": "a0199fdf0a9cae38",
   "lastOpenFiles": [
-    "C-Sharp/19 - Constructores.md",
-    "C-Sharp/Actividades/02 - ejercicios resueltos.md",
-    "C-Sharp/Actividades/01 - Ejercicios Modulo 1.md",
-    "C-Sharp/Actividades",
-    "C-Sharp/adjuntos/Untitled",
-    "C-Sharp/18 - Lambda Functions.md",
-    "Untitled.md",
-    "C-Sharp/17 - Nullable C-Sharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240527125940.png",
-    "C-Sharp/adjuntos/Pasted image 20240527124837.png",
-    "C-Sharp/16 - try catch.md",
-    "C-Sharp/adjuntos/Pasted image 20240527112922.png",
-    "C-Sharp/adjuntos/Pasted image 20240527112426.png",
-    "C-Sharp/adjuntos/Pasted image 20240527111547.png",
-    "C-Sharp/15 Comentarios en CSharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240524151537.png",
-    "C-Sharp/14 - namespaces y using.md",
-    "C-Sharp/13 - String Magicos.md",
-    "C-Sharp/12 - enums y numeros magicos.md",
-    "Markdown & Obsidian/Reglas Markdown.md",
-    "Terminal/VIM CheatSheet.md",
-    "VSCode/03- Edicion Basica.md",
-    "VSCode/02- General.md",
-    "VSCode/01- Introduccion.md",
-    "Diario/2024-05-23.md",
-    "C-Sharp/11 - Condicional If.md",
-    "C-Sharp/03 - Estructuras de control.md",
-    "C-Sharp/06 - Operadores.md",
-    "C-Sharp/05 - Estructuras en C-Sharp (struct).md",
-    "C-Sharp/04 - Matrices.md",
-    "C-Sharp/02 - Variables, constantes y enumeraciones.md",
-    "C-Sharp/09 - Alcance y Bloques.md",
-    "C-Sharp/08 - Procedimientos y funciones.md",
-    "C-Sharp/10 - Strings en C-Sharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240520125838.png",
-    "C-Sharp/adjuntos",
-    "C-Sharp",
-    "Javascript/adjuntos/Pasted image 20240413152207.png",
-    "Javascript/adjuntos/Pasted image 20240413143318.png",
-    "Javascript/adjuntos/Pasted image 20240413141856.png",
-    "Javascript/adjuntos",
-    "Javascript/01-Introduccion a javascript y la consola",
-    "Javascript",
-    "Introducción a la Terminal y Línea de Comandos/01 - Primeros pasos",
-    "Introducción a la Terminal y Línea de Comandos",
-    "Untitled.canvas",
-    "Diario"
+    "ac.bdc@nissanchiapas.com.mx.md"
   ]
 }
