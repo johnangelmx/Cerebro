@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93b1399469661440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas de Reunion Cero Papel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ac.bdc@nissanchiapas.com.mx.md",
+                "file": "Notas de Reunion Cero Papel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ac.bdc@nissanchiapas.com.mx.md",
+                "file": "Notas de Reunion Cero Papel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ac.bdc@nissanchiapas.com.mx.md"
+                "file": "Notas de Reunion Cero Papel.md"
               }
             }
           }
@@ -149,8 +162,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a0199fdf0a9cae38",
+  "active": "93b1399469661440",
   "lastOpenFiles": [
-    "ac.bdc@nissanchiapas.com.mx.md"
+    "ac.bdc@nissanchiapas.com.mx.md",
+    "Notas de Reunion Cero Papel.md"
   ]
 }
