@@ -6,6 +6,11 @@ Jefe de taller en incidencias de postventa hyp.
 
 Incrustar flecha de retorno en la interfaz.
 
+
+- Sacar un reporte con base en fechas en Excel
+- Checar lo incidencias de
+
+
 ---
 # Minutas
 Que el usuario pueda hacer un conjunto de objetivos.
