@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "93b1399469661440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas de Reunion Cero Papel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas de Reunion Cero Papel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas de Reunion Cero Papel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +134,9 @@
             "state": {
               "type": "outline",
               "state": {}
+              "state": {
+                "file": "Notas de Reunion Cero Papel.md"
+              }
             }
           }
         ]
@@ -142,31 +160,9 @@
     }
   },
   "active": "b7260c3b3781c55e",
+  "active": "93b1399469661440",
   "lastOpenFiles": [
-    "Prompts Chatgpt/Notas de reunion.md",
-    "Prompts Chatgpt",
-    "Generation Mexico/Git & Github/Llaves SSH para uso en Github.md",
-    "Reuniones/Diego Enrique/Notas de reunion 11-07-2024.md",
-    "Reuniones/Diego Enrique/Notas de reunión 18-07-2024.md",
-    "Reuniones/Diego Santiz/Notas 20-06-2024.md",
-    "Reuniones/Erik Toala/23-07-2024 Cero Papel - Nota de Reunión.md",
-    "Reuniones/Notas reunion - Automotriz.md",
-    "Reuniones/notas reunion 10-06-2024.md",
-    "Reuniones/Notas reunion 25-06-2024.md",
-    "Reuniones/Reunion 10-06-2024 Chesa - Joaquin.md",
-    "scriptsSQl/Script para cotizacion mediante numero de ticket.md",
-    "Reuniones/Diego Enrique/Notas 19-06-2024.md",
-    "Reuniones/Diego Enrique/Notas 24-06-2024.md",
-    "Reuniones/Diego Enrique/Notas 11-06-2024.md",
-    "Cloudformation.md",
-    "Reuniones/Diego Enrique/ac.bdc@nissanchiapas.com.mx.md",
-    "Reuniones/Erik Toala/Notas de Reunion Cero Papel.md",
-    "Reuniones/Seguimiento.md",
-    "Untitled.md",
-    "Reuniones/Erik Toala/Notas Reunion 25-06-2024.md",
-    "Reuniones/Notas de reunion.md",
-    "Noh1's.md",
-    "Reuniones/Jorge Altuzar",
-    "Reuniones/Jorge Altuzar/Notas de reunion cupon preliminar.md"
+    "ac.bdc@nissanchiapas.com.mx.md",
+    "Notas de Reunion Cero Papel.md"
   ]
 }
