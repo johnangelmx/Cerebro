@@ -1,8 +1,7 @@
 {
   "main": {
     "id": "4ba2a95f22ffa46b",
-<<<<<<< HEAD
-    "id": "eb47d1047e21bbb5",
+    
     "type": "split",
     "children": [
       {
@@ -16,35 +15,6 @@
               "type": "markdown",
               "state": {
                 "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
-=======
-    "id": "94a1a4b65309cef5",
-    "type": "split",
-    "children": [
-      {
-        "id": "f4c5b7e5b6856fb4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d849d5e5b6f832bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "340cc93a4e3ea013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MInutas Area Ti/Minuta de reunion 16-08-2024.md",
-                "file": "Notas de Reunion Cero Papel.md",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
                 "mode": "source",
                 "source": false
               }
@@ -57,18 +27,7 @@
   },
   "left": {
     "id": "9165b527350e1743",
-<<<<<<< HEAD
-    "id": "e6877b51b56b2ac7",
-    "type": "split",
-    "children": [
-      {
-        "id": "43c67a50c9d80dc7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7bd786c154121817",
-=======
-    "id": "4b3dc29a74ecfee6",
+    
     "type": "split",
     "children": [
       {
@@ -77,8 +36,7 @@
         "children": [
           {
             "id": "59f1c006a6e2e006",
-            "id": "b7260c3b3781c55e",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+            
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,11 +47,7 @@
           },
           {
             "id": "1676e1128b4f7e56",
-<<<<<<< HEAD
-            "id": "1684976ecd771da7",
-=======
-            "id": "b9800ca0f991746c",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+            
             "type": "leaf",
             "state": {
               "type": "search",
@@ -109,11 +63,6 @@
           },
           {
             "id": "7d56faeda38ff317",
-<<<<<<< HEAD
-            "id": "f72d656c0f303841",
-=======
-            "id": "a43db9a01a7cdc96",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,21 +73,6 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
-<<<<<<< HEAD
-    "width": 300
-  },
-  "right": {
-    "id": "d357a9387028c9dc",
-    "type": "split",
-    "children": [
-      {
-        "id": "77fa4d383e9c05f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb9d0a7d77834001",
-=======
     "width": 296
   },
   "right": {
@@ -151,22 +85,15 @@
         "children": [
           {
             "id": "840da450956ffb20",
-            "id": "5c1e3fcb778f415e",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+            
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
-<<<<<<< HEAD
-                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
-                "collapseAll": true,
-                "extraContext": true,
-=======
-                "file": "Notas de Reunion Cero Papel.md",
+                
                 "collapseAll": false,
                 "extraContext": false,
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -177,21 +104,13 @@
           },
           {
             "id": "a3ba1d7f2e55990c",
-<<<<<<< HEAD
-            "id": "e64f76052e2eab2b",
-=======
-            "id": "f8dde91355a71002",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+            
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
-<<<<<<< HEAD
-                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
-=======
-                "file": "Notas de Reunion Cero Papel.md",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+                
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,11 +118,7 @@
           },
           {
             "id": "cd34f5325eacc347",
-<<<<<<< HEAD
-            "id": "fbc852805168e63a",
-=======
-            "id": "30012ad592cd3209",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+            
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -215,21 +130,13 @@
           },
           {
             "id": "4860f1715b3ccb93",
-<<<<<<< HEAD
-            "id": "44bb827e4af181ff",
-=======
-            "id": "a734f51c2da61de3",
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+            
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "Prompts Chatgpt/Promt para generar cotizaciones.md"
-<<<<<<< HEAD
-                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md"
-=======
-                "file": "Notas de Reunion Cero Papel.md"
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
+                
               }
             }
           }
@@ -237,12 +144,8 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
     "width": 300,
     "collapsed": true
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,34 +160,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< HEAD
-  "active": "c440b20cca86ab5b",
-  "lastOpenFiles": [
-    "AWS/adjuntos/Pasted image 20240818230109.png",
-    "AWS/adjuntos/Pasted image 20240818230025.png",
-    "AWS/adjuntos/Pasted image 20240818225949.png",
-    "AWS/adjuntos/Pasted image 20240818225927.png",
-    "AWS/adjuntos/Pasted image 20240818225850.png",
-    "AWS/adjuntos/Pasted image 20240818225735.png",
-    "AWS/adjuntos/Pasted image 20240818225650.png",
-    "AWS/adjuntos/Pasted image 20240818225403.png",
-    "AWS/adjuntos/Pasted image 20240818224915.png",
-    "AWS/adjuntos/Pasted image 20240818224842.png",
-    "AWS/adjuntos",
-    "AWS/05 - Información general sobre la infraestructura de AWS.md",
-    "AWS/Fundamentos de la nube/04 - Precios de AWS.md",
-    "AWS/Fundamentos de la nube/adjuntos/Pasted image 20240818222933.png",
-    "AWS/Fundamentos de la nube/03 - Amazon Web Services.md",
-    "Markdown & Obsidian/Reglas Markdown.md",
-    "C-Sharp-Curso/01- Introduccion.md",
-    "Untitled.md",
-    "C-Sharp-Curso"
-=======
   "active": "b7260c3b3781c55e",
-  "active": "93b1399469661440",
+  
   "lastOpenFiles": [
     "ac.bdc@nissanchiapas.com.mx.md",
     "Notas de Reunion Cero Papel.md"
->>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
   ]
 }
