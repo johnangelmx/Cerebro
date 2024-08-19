@@ -51,4 +51,4 @@ Tomar en cuenta código de productos del SAT. Considerar el PLD.
 ![[Pasted image 20240612125355.png]]
 
 ### Capacitaciones dentro del rubro
-![[Pasted image 20240612125419.png]]
+![[cursocontabilidad.png]]

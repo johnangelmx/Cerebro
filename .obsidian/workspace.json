@@ -1,48 +1,51 @@
 {
   "main": {
-    "id": "94a1a4b65309cef5",
+    "id": "4ba2a95f22ffa46b",
     "type": "split",
     "children": [
       {
-        "id": "b9ba795ed863fdd0",
+        "id": "f4c5b7e5b6856fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "12ddc1bf1da9ba64",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "93b1399469661440",
+            "id": "d849d5e5b6f832bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de Reunion Cero Papel.md",
+                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "340cc93a4e3ea013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MInutas Area Ti/Minuta de reunion 16-08-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4b3dc29a74ecfee6",
+    "id": "9165b527350e1743",
     "type": "split",
     "children": [
       {
-        "id": "3ddda8c4a43f6e0a",
+        "id": "320ec740fe8efc2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7260c3b3781c55e",
+            "id": "59f1c006a6e2e006",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +55,7 @@
             }
           },
           {
-            "id": "b9800ca0f991746c",
+            "id": "1676e1128b4f7e56",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +70,7 @@
             }
           },
           {
-            "id": "a43db9a01a7cdc96",
+            "id": "7d56faeda38ff317",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 300
   },
   "right": {
-    "id": "5156ae126d1ec642",
+    "id": "af1a27bbf2d13c0f",
     "type": "split",
     "children": [
       {
-        "id": "f90b904d12dc0e6b",
+        "id": "f8569c6df0f0919b",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1e3fcb778f415e",
+            "id": "840da450956ffb20",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas de Reunion Cero Papel.md",
+                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +109,19 @@
             }
           },
           {
-            "id": "f8dde91355a71002",
+            "id": "a3ba1d7f2e55990c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas de Reunion Cero Papel.md",
+                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "30012ad592cd3209",
+            "id": "cd34f5325eacc347",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,13 +132,12 @@
             }
           },
           {
-            "id": "a734f51c2da61de3",
+            "id": "4860f1715b3ccb93",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
               "state": {
-                "file": "Notas de Reunion Cero Papel.md"
+                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md"
               }
             }
           }
@@ -148,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "text2audio:Text to Audio": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,14 +158,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false,
-      "text2audio:Text to Audio": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7260c3b3781c55e",
-  "active": "93b1399469661440",
+  "active": "d849d5e5b6f832bc",
   "lastOpenFiles": [
-    "ac.bdc@nissanchiapas.com.mx.md",
-    "Notas de Reunion Cero Papel.md"
+    "scriptsSQl/Script para cotizacion mediante numero de ticket.md",
+    "Introducción a Web Components.md",
+    "MInutas Area Ti/Minuta de reunion 16-08-2024.md",
+    "MInutas Area Ti",
+    "Notas de reunion.md",
+    "cfdi-sat-ws-masiva.md",
+    "cicd.md",
+    "Reuniones/Erik Toala/Notas de reunión 07-08-2024.md",
+    "Reuniones/Diego Enrique/Notas de reunión 07-08-2024.md",
+    "Prompts Chatgpt/Promts notas de reunion.md",
+    "Reuniones/Erik Toala/Notas Reunion 02-08-2024.md",
+    "Reuniones/Erik Toala/Notas Reunion 17-06-2024.md",
+    "Reuniones/Erik Toala/Notas Reunion 18-06-2024.md",
+    "Reuniones/Erik Toala/Notas Reunion 25-06-2024.md",
+    "Reuniones/Notas de reunion.md",
+    "Reuniones/Notas reunion - Automotriz.md",
+    "Reuniones/notas reunion 10-06-2024.md",
+    "Reuniones/Notas reunion 25-06-2024.md",
+    "Reuniones/Reunion 10-06-2024 Chesa - Joaquin.md",
+    "Reuniones/Erik Toala/Notas de reunion 14-06-2024.md",
+    "Reuniones/Erik Toala/Notas de reunion  12-06-2024.md",
+    "Reuniones/Erik Toala/Notas de reunión  - Cero Papel.md",
+    "Reuniones/Erik Toala/Impuestos.md",
+    "Reuniones/Erik Toala/Cloudformation.md",
+    "Reuniones/Erik Toala/23-07-2024 Cero Papel - Nota de Reunión.md",
+    "Documentacion Cloudformation/Microservicios Entorno Desarrollo.md",
+    "Reuniones/Erik Toala/Notas de Reunion Cero Papel 1.md",
+    "Documentacion Cloudformation",
+    "Reuniones/Jorge Altuzar/MicroservicioSalaDeMensajeria",
+    "Reuniones/Erik Toala/adjuntos/cursocontabilidad.png"
   ]
 }
