@@ -1,0 +1,8 @@
+- Escenario de obtención de datos para expedientes, es decir, automatización de tipo de documentos por subir, basándonos en caso de facturación. La resolución hasta este punto es que la parte de contabilidad tendrá que corroborar en qué punto tendría que pedir información adicional el sistema de cero papel, como fotos, imágenes, PDF's, TXT, etc.
+- Empezar a estructurar la arquitectura de organización del bucket S3, por expediente, dicho expediente tendría que ser por empresa, por año, mes y folio.
+- El primer pago en el apartado de configuración la fecha recomendada será la misma fecha de aproximada de pago. Y las siguientes fecha una semana después de la fecha de configuración.
+- Cambiar la configuración de como se presenta con en cotización.
+- Subir el PDF de cotización es decir subir el input a la parte superior de la interfaz
+- Dejar como opcional el folio de cotización, y que quede un folio consecutivo de la solicitud de pago 
+- Eliminación de anticipo en cotización.
+- Mejora de vista principal 

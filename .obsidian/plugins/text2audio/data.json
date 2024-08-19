@@ -1,0 +1,22 @@
+{
+  "keyHide": true,
+  "key": "",
+  "region": "",
+  "regionCode": "es-MX",
+  "directory": "",
+  "interposition": false,
+  "readBeforeOrAfter": "off",
+  "autoStop": false,
+  "autoPause": false,
+  "textFormatting": "",
+  "speed": 1,
+  "intensity": 100,
+  "style": "advertisement_upbeat",
+  "role": "Boy",
+  "language": "en",
+  "volume": 50,
+  "enableDeveloperMode": false,
+  "languageType": "Spanish (Mexico)",
+  "voiceType": "DaliaNeural (Female)",
+  "audioFormat": "raw-8khz-8bit-mono-mulaw(.wav)"
+}

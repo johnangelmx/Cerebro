@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "eb47d1047e21bbb5",
     "type": "split",
     "children": [
@@ -14,17 +15,43 @@
               "type": "markdown",
               "state": {
                 "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
+=======
+    "id": "94a1a4b65309cef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ba795ed863fdd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ddc1bf1da9ba64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "93b1399469661440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas de Reunion Cero Papel.md",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "e6877b51b56b2ac7",
     "type": "split",
     "children": [
@@ -34,6 +61,17 @@
         "children": [
           {
             "id": "7bd786c154121817",
+=======
+    "id": "4b3dc29a74ecfee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ddda8c4a43f6e0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7260c3b3781c55e",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +81,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "1684976ecd771da7",
+=======
+            "id": "b9800ca0f991746c",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +100,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f72d656c0f303841",
+=======
+            "id": "a43db9a01a7cdc96",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,6 +115,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
   },
   "right": {
@@ -81,13 +128,33 @@
         "children": [
           {
             "id": "bb9d0a7d77834001",
+=======
+    "width": 296
+  },
+  "right": {
+    "id": "5156ae126d1ec642",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90b904d12dc0e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c1e3fcb778f415e",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
                 "collapseAll": true,
                 "extraContext": true,
+=======
+                "file": "Notas de Reunion Cero Papel.md",
+                "collapseAll": false,
+                "extraContext": false,
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -97,19 +164,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "e64f76052e2eab2b",
+=======
+            "id": "f8dde91355a71002",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
+=======
+                "file": "Notas de Reunion Cero Papel.md",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "fbc852805168e63a",
+=======
+            "id": "30012ad592cd3209",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +199,33 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "44bb827e4af181ff",
+=======
+            "id": "a734f51c2da61de3",
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "AWS/05 - Información general sobre la infraestructura de AWS.md"
+=======
+                "file": "Notas de Reunion Cero Papel.md"
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
+=======
+    "width": 300,
+    "collapsed": true
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,9 +236,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "text2audio:Text to Audio": false
     }
   },
+<<<<<<< HEAD
   "active": "c440b20cca86ab5b",
   "lastOpenFiles": [
     "AWS/adjuntos/Pasted image 20240818230109.png",
@@ -169,5 +262,12 @@
     "C-Sharp-Curso/01- Introduccion.md",
     "Untitled.md",
     "C-Sharp-Curso"
+=======
+  "active": "b7260c3b3781c55e",
+  "active": "93b1399469661440",
+  "lastOpenFiles": [
+    "ac.bdc@nissanchiapas.com.mx.md",
+    "Notas de Reunion Cero Papel.md"
+>>>>>>> 2e2edbb42a02f92774f1f51cf7780bd481d88e50
   ]
 }
