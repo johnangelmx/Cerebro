@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "cd97bcb4acdde427",
+    "id": "eb47d1047e21bbb5",
     "type": "split",
     "children": [
       {
-        "id": "6ee88c79958aee98",
-        "id": "7ab87dc023436d0d",
+        "id": "39c1dc9bc7da5d92",
         "type": "tabs",
         "children": [
           {
-            "id": "880b64e0981e8ab8",
-            "id": "bcbbb02b2a9efb5b",
+            "id": "c440b20cca86ab5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md",
+                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "735c80b58db1da45",
+    "id": "e6877b51b56b2ac7",
     "type": "split",
     "children": [
       {
-        "id": "e4edfbbdf6593289",
+        "id": "43c67a50c9d80dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "632939c19b6aaae2",
+            "id": "7bd786c154121817",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "d610e4905a95c83b",
+            "id": "1684976ecd771da7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,15 +58,7 @@
             }
           },
           {
-            "id": "ccb06baf4cdfa2be",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "10f4dbc48c01b8ea",
+            "id": "f72d656c0f303841",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,47 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242
+    "width": 300
   },
   "right": {
-    "id": "579159da861a42a0",
+    "id": "d357a9387028c9dc",
     "type": "split",
     "children": [
       {
-        "id": "4a44074b9e0a30da",
+        "id": "77fa4d383e9c05f4",
         "type": "tabs",
         "children": [
           {
-            "id": "91f3968330d941c8",
+            "id": "bb9d0a7d77834001",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "45c50831af97e801",
+            "id": "e64f76052e2eab2b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/19 - Constructores.md",
+                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bfbd612940bedf91",
+            "id": "fbc852805168e63a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +120,12 @@
             }
           },
           {
-            "id": "daeab10301050015",
+            "id": "44bb827e4af181ff",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
               "state": {
-                "file": "C-Sharp/19 - Constructores.md"
+                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md"
               }
             }
           }
@@ -147,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,55 +148,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "632939c19b6aaae2",
-  "active": "bcbbb02b2a9efb5b",
+  "active": "c440b20cca86ab5b",
   "lastOpenFiles": [
-    "C-Sharp/19 - Constructores.md",
-    "C-Sharp/Actividades/02 - ejercicios resueltos.md",
-    "C-Sharp/Actividades/01 - Ejercicios Modulo 1.md",
-    "C-Sharp/Actividades",
-    "C-Sharp/adjuntos/Untitled",
-    "C-Sharp/18 - Lambda Functions.md",
-    "Untitled.md",
-    "C-Sharp/17 - Nullable C-Sharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240527125940.png",
-    "C-Sharp/adjuntos/Pasted image 20240527124837.png",
-    "C-Sharp/16 - try catch.md",
-    "C-Sharp/adjuntos/Pasted image 20240527112922.png",
-    "C-Sharp/adjuntos/Pasted image 20240527112426.png",
-    "C-Sharp/adjuntos/Pasted image 20240527111547.png",
-    "C-Sharp/15 Comentarios en CSharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240524151537.png",
-    "C-Sharp/14 - namespaces y using.md",
-    "C-Sharp/13 - String Magicos.md",
-    "C-Sharp/12 - enums y numeros magicos.md",
+    "AWS/adjuntos/Pasted image 20240818230109.png",
+    "AWS/adjuntos/Pasted image 20240818230025.png",
+    "AWS/adjuntos/Pasted image 20240818225949.png",
+    "AWS/adjuntos/Pasted image 20240818225927.png",
+    "AWS/adjuntos/Pasted image 20240818225850.png",
+    "AWS/adjuntos/Pasted image 20240818225735.png",
+    "AWS/adjuntos/Pasted image 20240818225650.png",
+    "AWS/adjuntos/Pasted image 20240818225403.png",
+    "AWS/adjuntos/Pasted image 20240818224915.png",
+    "AWS/adjuntos/Pasted image 20240818224842.png",
+    "AWS/adjuntos",
+    "AWS/05 - Información general sobre la infraestructura de AWS.md",
+    "AWS/Fundamentos de la nube/04 - Precios de AWS.md",
+    "AWS/Fundamentos de la nube/adjuntos/Pasted image 20240818222933.png",
+    "AWS/Fundamentos de la nube/03 - Amazon Web Services.md",
     "Markdown & Obsidian/Reglas Markdown.md",
-    "Terminal/VIM CheatSheet.md",
-    "VSCode/03- Edicion Basica.md",
-    "VSCode/02- General.md",
-    "VSCode/01- Introduccion.md",
-    "Diario/2024-05-23.md",
-    "C-Sharp/11 - Condicional If.md",
-    "C-Sharp/03 - Estructuras de control.md",
-    "C-Sharp/06 - Operadores.md",
-    "C-Sharp/05 - Estructuras en C-Sharp (struct).md",
-    "C-Sharp/04 - Matrices.md",
-    "C-Sharp/02 - Variables, constantes y enumeraciones.md",
-    "C-Sharp/09 - Alcance y Bloques.md",
-    "C-Sharp/08 - Procedimientos y funciones.md",
-    "C-Sharp/10 - Strings en C-Sharp.md",
-    "C-Sharp/adjuntos/Pasted image 20240520125838.png",
-    "C-Sharp/adjuntos",
-    "C-Sharp",
-    "Javascript/adjuntos/Pasted image 20240413152207.png",
-    "Javascript/adjuntos/Pasted image 20240413143318.png",
-    "Javascript/adjuntos/Pasted image 20240413141856.png",
-    "Javascript/adjuntos",
-    "Javascript/01-Introduccion a javascript y la consola",
-    "Javascript",
-    "Introducción a la Terminal y Línea de Comandos/01 - Primeros pasos",
-    "Introducción a la Terminal y Línea de Comandos",
-    "Untitled.canvas",
-    "Diario"
+    "C-Sharp-Curso/01- Introduccion.md",
+    "Untitled.md",
+    "C-Sharp-Curso"
   ]
 }
