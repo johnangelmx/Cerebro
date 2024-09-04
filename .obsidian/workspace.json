@@ -1,23 +1,18 @@
 {
   "main": {
     "id": "4ba2a95f22ffa46b",
-    
     "type": "split",
     "children": [
       {
-        "id": "39c1dc9bc7da5d92",
+        "id": "3047711b91669981",
         "type": "tabs",
         "children": [
           {
-            "id": "c440b20cca86ab5b",
+            "id": "74ddfa33d27219c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/05 - Información general sobre la infraestructura de AWS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -27,7 +22,6 @@
   },
   "left": {
     "id": "9165b527350e1743",
-    
     "type": "split",
     "children": [
       {
@@ -36,7 +30,6 @@
         "children": [
           {
             "id": "59f1c006a6e2e006",
-            
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +40,6 @@
           },
           {
             "id": "1676e1128b4f7e56",
-            
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 344
   },
   "right": {
     "id": "af1a27bbf2d13c0f",
@@ -85,32 +77,26 @@
         "children": [
           {
             "id": "840da450956ffb20",
-            
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
-                
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
             "id": "a3ba1d7f2e55990c",
-            
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md",
-                
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +104,6 @@
           },
           {
             "id": "cd34f5325eacc347",
-            
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,22 +115,18 @@
           },
           {
             "id": "4860f1715b3ccb93",
-            
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prompts Chatgpt/Promt para generar cotizaciones.md"
-                
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 253
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +141,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7260c3b3781c55e",
-  
+  "active": "59f1c006a6e2e006",
   "lastOpenFiles": [
-    "ac.bdc@nissanchiapas.com.mx.md",
-    "Notas de Reunion Cero Papel.md"
+    "Accesibilidad Web/Untitled",
+    "Prompts Chatgpt/Promts notas de reunion.md",
+    "Reuniones/Jose Antonio/Notas de reunión 04-09-2024.md",
+    "Reuniones/Jose Antonio/adjuntos/Pasted image 20240904113739.png",
+    "Reuniones/Jose Antonio/adjuntos/Pasted image 20240904113720.png",
+    "Reuniones/Jose Antonio/adjuntos",
+    "AWS/Jumpstart/03 - Escalado automatico de amazon ec2.md",
+    "Reuniones/Jose Antonio",
+    "Reuniones/Diego Enrique/Notas de reunión 03-09-2024.md",
+    "AWS/Jumpstart/02 - Balanceadores de carga y agentes de escucha de ELB.md",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903152302.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903152226.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903152142.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903152036.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903151954.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903151836.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903151530.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240903151453.png",
+    "AWS/Jumpstart/01- Elastic Load Balancing.md",
+    "AWS/Jumpstart/adjuntos",
+    "AWS/Jumpstart",
+    "scriptsSQl/QUERY DE LA REUNION.md",
+    "Reuniones/Reunion 10-06-2024 Chesa - Joaquin.md",
+    "scriptsSQl/Untitled",
+    "Reuniones/Notas reunion 25-06-2024.md",
+    "Reuniones/notas reunion 10-06-2024.md",
+    "Reuniones/Notas reunion - Automotriz.md",
+    "Reuniones/Notas de reunion.md",
+    "Untitled.md",
+    "Prompts Chatgpt/Promt para generar cotizaciones.md",
+    "scriptsSQl/Script para cotizacion mediante numero de ticket.md",
+    "Reuniones/Diego Enrique/Notas de reunión 27-08-2024.md",
+    "Untitled.canvas",
+    "Reuniones/Diego Enrique/Notas de Reunión 20-08-2024.md",
+    "Reuniones/Diego Enrique/Notas de reunión 23-08-2024.md",
+    "Reuniones/Cero papel/Nota de Reunión 21-08-2024.md",
+    "Reuniones/Cero papel/Notas de Reunión 20-08-2024.md",
+    "Reuniones/Erik Toala/Notas Reunion 17-06-2024.md",
+    "Reuniones/Erik Toala/Notas Reunion 02-08-2024.md",
+    "Reuniones/Erik Toala/Notas de Reunion Cero Papel 1.md",
+    "Reuniones/Erik Toala/Notas de Reunion Cero Papel.md",
+    "Reuniones/Erik Toala/Notas de reunion 14-06-2024.md",
+    "Reuniones/Cero papel",
+    "C-Sharp-Curso",
+    "AWS/adjuntos",
+    "MInutas Area Ti",
+    "Documentacion Cloudformation"
   ]
 }
