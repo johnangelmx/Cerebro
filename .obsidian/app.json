@@ -300,6 +300,16 @@
     "Huitepec",
     "Elastic",
     "ELB",
-    "ECS"
+    "ECS",
+    "Scaling",
+    "IAM",
+    "VPC",
+    "Balacing",
+    "ChangeInCapacity",
+    "ExactCapacity",
+    "ChangeInPercent",
+    "SIA",
+    "SIA para",
+    "SICPRO"
   ]
 }

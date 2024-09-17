@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3047711b91669981",
+        "id": "dac88b5f90fdcf23",
         "type": "tabs",
         "children": [
           {
-            "id": "74ddfa33d27219c6",
+            "id": "35f931c42b64f96f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md"
+              }
             }
           }
         ],
@@ -141,27 +149,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "59f1c006a6e2e006",
+  "active": "35f931c42b64f96f",
   "lastOpenFiles": [
+    "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
+    "AWS/Jumpstart/03-2 Lab Preparacion y problema.md",
+    "AWS/Jumpstart/03-1 -Lab Preparacion y problema.md",
+    "AWS/Jumpstart/02 - Balanceadores de carga y agentes de escucha de ELB.md",
+    "AWS/Jumpstart/03 - Escalado automatico de amazon ec2.md",
+    "Documentacion Cloudformation/Microservicios Entorno Desarrollo.md",
+    "cicd.md",
+    "Introducción a Web Components.md",
+    "Notas de reunion.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240905130454.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240905130246.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240905130236.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240905125809.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240905125700.png",
+    "AWS/Jumpstart/01- Elastic Load Balancing.md",
+    "Markdown & Obsidian/Reglas Markdown.md",
+    "Prompts Chatgpt/Promt para generar cotizaciones.md",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240904143455.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240904143333.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240904143309.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240904131754.png",
+    "AWS/Jumpstart/adjuntos/Pasted image 20240904130730.png",
     "Accesibilidad Web/Untitled",
     "Prompts Chatgpt/Promts notas de reunion.md",
     "Reuniones/Jose Antonio/Notas de reunión 04-09-2024.md",
-    "Reuniones/Jose Antonio/adjuntos/Pasted image 20240904113739.png",
-    "Reuniones/Jose Antonio/adjuntos/Pasted image 20240904113720.png",
     "Reuniones/Jose Antonio/adjuntos",
-    "AWS/Jumpstart/03 - Escalado automatico de amazon ec2.md",
     "Reuniones/Jose Antonio",
     "Reuniones/Diego Enrique/Notas de reunión 03-09-2024.md",
-    "AWS/Jumpstart/02 - Balanceadores de carga y agentes de escucha de ELB.md",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903152302.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903152226.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903152142.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903152036.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903151954.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903151836.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903151530.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240903151453.png",
-    "AWS/Jumpstart/01- Elastic Load Balancing.md",
     "AWS/Jumpstart/adjuntos",
     "AWS/Jumpstart",
     "scriptsSQl/QUERY DE LA REUNION.md",
@@ -171,24 +190,13 @@
     "Reuniones/notas reunion 10-06-2024.md",
     "Reuniones/Notas reunion - Automotriz.md",
     "Reuniones/Notas de reunion.md",
-    "Untitled.md",
-    "Prompts Chatgpt/Promt para generar cotizaciones.md",
     "scriptsSQl/Script para cotizacion mediante numero de ticket.md",
     "Reuniones/Diego Enrique/Notas de reunión 27-08-2024.md",
     "Untitled.canvas",
     "Reuniones/Diego Enrique/Notas de Reunión 20-08-2024.md",
-    "Reuniones/Diego Enrique/Notas de reunión 23-08-2024.md",
-    "Reuniones/Cero papel/Nota de Reunión 21-08-2024.md",
-    "Reuniones/Cero papel/Notas de Reunión 20-08-2024.md",
-    "Reuniones/Erik Toala/Notas Reunion 17-06-2024.md",
-    "Reuniones/Erik Toala/Notas Reunion 02-08-2024.md",
-    "Reuniones/Erik Toala/Notas de Reunion Cero Papel 1.md",
-    "Reuniones/Erik Toala/Notas de Reunion Cero Papel.md",
-    "Reuniones/Erik Toala/Notas de reunion 14-06-2024.md",
     "Reuniones/Cero papel",
     "C-Sharp-Curso",
     "AWS/adjuntos",
-    "MInutas Area Ti",
-    "Documentacion Cloudformation"
+    "MInutas Area Ti"
   ]
 }
