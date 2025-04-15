@@ -310,6 +310,30 @@
     "ChangeInPercent",
     "SIA",
     "SIA para",
-    "SICPRO"
-  ]
+    "SICPRO",
+    "sicpro",
+    "instelisis",
+    "Cafi",
+    "Cafi",
+    "R",
+    "fortia",
+    "cipro",
+    "CSA",
+    "Fortia",
+    "Prosur",
+    "passcodes",
+    "goze",
+    "PUE",
+    "PPD",
+    "via",
+    "PUE",
+    "Helpdesk"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  }
 }

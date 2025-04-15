@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dac88b5f90fdcf23",
+        "id": "ee59d9373e011156",
         "type": "tabs",
         "children": [
           {
-            "id": "35f931c42b64f96f",
+            "id": "d4026bbe28611952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
+                "file": "Docker/Seccion 1- Bases de Docker/01 - Introducción.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01 - Introducción"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 301
   },
   "right": {
     "id": "af1a27bbf2d13c0f",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
+                "file": "Documentacion Cloudformation/Microservicios Entorno Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Microservicios Entorno Desarrollo"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
+                "file": "Notas de reunion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notas de reunion"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md"
-              }
+                "file": "Indicadores/03 - Comodines.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03 - Comodines"
             }
           }
         ],
@@ -134,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253
+    "width": 253,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,54 +170,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "35f931c42b64f96f",
+  "active": "d4026bbe28611952",
   "lastOpenFiles": [
-    "Reuniones/Cero papel/Notas de Reunión 17-09-2024.md",
-    "AWS/Jumpstart/03-2 Lab Preparacion y problema.md",
-    "AWS/Jumpstart/03-1 -Lab Preparacion y problema.md",
-    "AWS/Jumpstart/02 - Balanceadores de carga y agentes de escucha de ELB.md",
-    "AWS/Jumpstart/03 - Escalado automatico de amazon ec2.md",
-    "Documentacion Cloudformation/Microservicios Entorno Desarrollo.md",
-    "cicd.md",
-    "Introducción a Web Components.md",
-    "Notas de reunion.md",
+    "Informe.md",
+    "Docker/Seccion 1- Bases de Docker/01 - Introducción.md",
+    "Nuevas políticas.md",
     "Untitled.md",
-    "Untitled 1.md",
+    "Indicadores/01.1 Addendum.md",
+    "Docker/Seccion 1- Bases de Docker",
+    "Indicadores/00 - Resumen Indicadores.md",
+    "Indicadores/01 - Primer Indicador.md",
+    "Indicadores/02 - Segundo Indicador.md",
+    "Indicadores/03 - Comodines.md",
+    "Indicadores",
+    "AWS/Cloudformation/Funciones Intrinsecas.md",
+    "AWS/Cloudformation",
+    "Prompts Chatgpt/Promts notas de reunion.md",
+    "Prompts Chatgpt/Promt para generar cotizaciones.md",
+    "adjuntos/{D00F149F-2729-4889-BCC6-FD79A64AC698}.png",
+    "Reuniones/Notas de reunion.md",
+    "Contabilidad/02 - IVA y formas de pago.md",
+    "Reuniones/Notas de reunión 12-11-2024.md",
+    "Reuniones/Notas de reunión 13-11-2024.md",
+    "Reuniones/Notas de reunión 13-11-2024 1.md",
+    "Reuniones/Notas de reunion 19.md",
+    "Reuniones/Notas de reunion calzamoda.md",
+    "Reuniones/Notas de reunión cero papel 10-12-2024.md",
+    "Reuniones/Notas de reunión Cero Papel 12-12-2024.md",
+    "Reuniones/Notas de reunion s.md",
+    "Reuniones/Planeacion.md",
+    "Reuniones/Planificación del Proyecto de Clonación e Implementación de Sistema de Gestión Automotriz.md",
+    "Reuniones/Planeación Cero Papel 1.1.0.md",
+    "Reuniones/Reunion Con Chesa 13-11-2024.md",
+    "Contabilidad",
+    "adjuntos",
+    "Docker",
+    "Reuniones/Erik Toala/adjuntos/cursocontabilidad.png",
+    "Reuniones/Erik Toala/adjuntos/Pasted image 20240612125355.png",
+    "Reuniones/Erik Toala/adjuntos/Pasted image 20240612105520.png",
+    "Por ordenar",
+    "Reuniones/Untitled",
     "AWS/Jumpstart/adjuntos/Pasted image 20240905130454.png",
     "AWS/Jumpstart/adjuntos/Pasted image 20240905130246.png",
     "AWS/Jumpstart/adjuntos/Pasted image 20240905130236.png",
     "AWS/Jumpstart/adjuntos/Pasted image 20240905125809.png",
     "AWS/Jumpstart/adjuntos/Pasted image 20240905125700.png",
-    "AWS/Jumpstart/01- Elastic Load Balancing.md",
-    "Markdown & Obsidian/Reglas Markdown.md",
-    "Prompts Chatgpt/Promt para generar cotizaciones.md",
     "AWS/Jumpstart/adjuntos/Pasted image 20240904143455.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240904143333.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240904143309.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240904131754.png",
-    "AWS/Jumpstart/adjuntos/Pasted image 20240904130730.png",
     "Accesibilidad Web/Untitled",
-    "Prompts Chatgpt/Promts notas de reunion.md",
-    "Reuniones/Jose Antonio/Notas de reunión 04-09-2024.md",
     "Reuniones/Jose Antonio/adjuntos",
-    "Reuniones/Jose Antonio",
-    "Reuniones/Diego Enrique/Notas de reunión 03-09-2024.md",
-    "AWS/Jumpstart/adjuntos",
-    "AWS/Jumpstart",
-    "scriptsSQl/QUERY DE LA REUNION.md",
-    "Reuniones/Reunion 10-06-2024 Chesa - Joaquin.md",
-    "scriptsSQl/Untitled",
-    "Reuniones/Notas reunion 25-06-2024.md",
-    "Reuniones/notas reunion 10-06-2024.md",
-    "Reuniones/Notas reunion - Automotriz.md",
-    "Reuniones/Notas de reunion.md",
-    "scriptsSQl/Script para cotizacion mediante numero de ticket.md",
-    "Reuniones/Diego Enrique/Notas de reunión 27-08-2024.md",
-    "Untitled.canvas",
-    "Reuniones/Diego Enrique/Notas de Reunión 20-08-2024.md",
-    "Reuniones/Cero papel",
-    "C-Sharp-Curso",
-    "AWS/adjuntos",
-    "MInutas Area Ti"
+    "Untitled.canvas"
   ]
 }

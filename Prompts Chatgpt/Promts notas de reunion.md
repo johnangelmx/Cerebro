@@ -1,5 +1,7 @@
-```Markdown
+```md
 Hola, ChatGPT. Quisiera que me ayudes a redactar una minuta de reunión en el siguiente formato:
+
+Estas Notas son de una solicitud de desarrollo todas enfocadas en anotaciones que explico el cliente
 
 ### Minuta de Reunión
 
